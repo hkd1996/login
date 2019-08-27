@@ -1,27 +1,29 @@
-{"data":[
-  {
-    "Username" : "abc@xyz.com",
-    "Password" : "demo123"
-  },
-  {
-    "Username" : "abc1@xyz.com",
-    "Password" : "demo321"
-  },
-  {
-    "Username" : "abc2@xyz.com",
-    "Password" : "demo145"
-  },
-  {
-    "Username" : "abc3@xyz.com",
-    "Password" : "demo567"
-  },
-  {
-    "Username" : "abc4@xyz.com",
-    "Password" : "demo890"
-  },
-  {
-    "Username" : "abc5@xyz.com",
-    "Password" : "demo345"
-  }
-]
-    
+{  
+    "users": [{  
+            "username": "test@mobile.com",  
+            "password": "test123"  
+        },  
+        {  
+			"username": "test1@mobile.com",  
+            "password": "test123"  
+            
+        },  
+        {  
+             "username": "test2@mobile.com",  
+            "password": "test123"  
+        }  
+		,  
+        {  
+             "username": "test3@mobile.com",  
+			 "password": "test123"  
+        },  
+        {  
+             "username": "test4@mobile.com",  
+             "password": "test123"  
+        },  
+        {  
+             "username": "test5@mobile.com",  
+            "password": "test123"  
+        }    
+    ]  
+}  
